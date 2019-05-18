@@ -7,6 +7,7 @@
 
 ## Links and Documentation for the Midas M32 and Behringer X32
 - [Midas M32 Manual](http://downloads.music-group.com/documents/midas/M32_M_EN.pdf)
+- [Midas M32R Specs](https://media63.musictribe.com/media/PLM/data/docs/P0BI9/MIDAS_M32R%20P0BI9_Product%20Information%20Document.pdf)
 - [Patrick's X32 Commander](https://sites.google.com/site/patrickmaillot/x32)
 
 ## Tutorials and Videos
