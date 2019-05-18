@@ -23,10 +23,10 @@ Adding one or more DL8/DL16/DL32 stage boxes expands the number of physical inpu
 - [Dante Network](https://www.audinate.com/dante-enabled/midas-m32)
 
 ## Tutorials and Videos
-- [Overview - Sweetwater](https://www.youtube.com/watch?v=5zgeAFDLke0)
+-[Overview - Sweetwater](https://www.youtube.com/watch?v=5zgeAFDLke0)
 -[Tips - Matrices/Crossovers](https://www.youtube.com/watch?v=Bq4mNj3QVGI)
 -[Tips GEQ on a Mixbus](https://www.youtube.com/watch?v=jb-tnOdCfik)
 -[Tips - DCA Groups](https://www.youtube.com/watch?v=lDvW82NO9bg&t=1s)
 -[Tips - Routing](https://www.youtube.com/watch?v=ebDRah0lrYE)
 -[Misc Tutorials](https://www.youtube.com/watch?v=5zgeAFDLke0&list=PL3IC2UhJbnnQU2gfZBqIDSaS-9hT5AhTH)
-- [X32 Routing](http://www.behringermixers.com/behringer-x32-routing-example/)
+-[X32 Routing](http://www.behringermixers.com/behringer-x32-routing-example/)
